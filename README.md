@@ -1,5 +1,5 @@
 
-![name-of-you-image](https://https://images.wallpaperscraft.com/image/inscription_quote_motivation_127898_1920x1080.jpg)
+![motivation](https://https://C:\Users/ashok/Pictures)
 
 
 
