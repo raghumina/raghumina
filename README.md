@@ -1,7 +1,6 @@
 
 
-[motivation](https://gph.is/g/aQO5MPB)
-
+![greetings](https://giphy.com/gifs/h408T6Y5GfmXBKW62l/html5)
 
 ![motivation](https://images.wallpaperscraft.com/image/inscription_quote_motivation_127898_1920x1080.jpg)
 
