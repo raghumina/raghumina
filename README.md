@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity Engine, Unreal, GoDot**
 
-- 👯 I’m looking to collaborate on **Unity Game**
+- 👯 I’m looking to collaborate on **Game Develpment**
 
 - 👨‍💻 All of my projects are available at [raghumina.github.io](raghumina.github.io)
 
