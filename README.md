@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [raghumina.github.io](raghumina.github.io)
 
-- 💬 Ask me about **Python, Pygame**
+- 💬 Ask me about **Python, Pygame, Biopython**
 
 - ⚡ Fun fact **Java is way easier than C++**
 
