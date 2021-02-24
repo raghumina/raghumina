@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghumina&show_icons=true&locale=en" alt="raghumina" /></p>
 
 
-https://skyline.github.com/api/contributions?raghumina=dend&year=2020
+https://skyline.github.com/api/contributions?@raghumina=dend&year=2020
